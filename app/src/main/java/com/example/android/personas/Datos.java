@@ -15,4 +15,5 @@ public class Datos {
     public static ArrayList<Persona> getPersonas() {
         return personas;
     }
+
 }

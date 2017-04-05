@@ -6,4 +6,10 @@
     <string name="Edad">Edad</string>
     <string name="No">No</string>
     <string name="Hobbies">Hobbies</string>
+    <string name ="Listar">Listar</string>
+    <string name="registrar">Registrar</string>
+    <string-array name="Opciones">
+        <item>@string/registrar</item>
+        <item>@string/Listar</item>
+    </string-array>
 </resources>
