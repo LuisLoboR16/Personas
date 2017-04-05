@@ -4,4 +4,6 @@
     <string name="Nombre">Nombre</string>
     <string name="Apellido">Apellido</string>
     <string name="Edad">Edad</string>
+    <string name="No">No</string>
+    <string name="Hobbies">Hobbies</string>
 </resources>
